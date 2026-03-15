@@ -6,7 +6,7 @@ import numpy as np
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="CA Housing Price Predictor",
-    page_icon="🏠",
+    page_icon="🏘️",
     layout="wide",
 )
 

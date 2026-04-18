@@ -33,9 +33,7 @@ p: [1,2]
 
 # Model Evaluation
 The model was evaluated using the following regression metrics:
-- R² Score
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
+R² Score. Mean Squared Error (MSE), Root Mean Squared Error (RMSE)
 
 These metrics were used to assess the accuracy and reliability of the trained model.
 

@@ -1,19 +1,9 @@
 # MLOPs-Streamlit-app-Integration
-
 # California Housing Price Prediction – MLOps Project
 # Overview
-
 This project demonstrates a complete machine learning workflow for predicting housing prices using the California Housing dataset. The objective of the project was to build, evaluate, and deploy a regression model capable of estimating median housing values based on several demographic and geographic features.
 
-The project was developed as part of the Data and Artificial Intelligence – Cyber Shujaa Program (Week 9: MLOps Assignment).
-
-The workflow includes:
-- Data exploration and preprocessing
-- Machine learning pipeline construction
-- Hyperparameter tuning
-- Model evaluation
-- Saving the trained model pipeline
-- Deployment using Streamlit
+The workflow includes:Data exploration and preprocessing, machine learning pipeline construction, hyperparameter tuning, model evaluation, saving the trained model pipeline, deployment using Streamlit
 
 The final result is an interactive web application that allows users to input housing features and receive predicted house prices.
 

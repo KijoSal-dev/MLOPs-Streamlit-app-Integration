@@ -16,13 +16,9 @@ The dataset contains 20,640 housing records collected from the 1990 California c
 The model was built using Scikit-learn with the following components:
 
 # Data Preprocessing
-
-SimpleImputer (mean strategy)
-
-StandardScaler
+SimpleImputer (mean strategy) and StandardScaler
 
 # Model
-
 K-Nearest Neighbors Regressor
 
 # Hyperparameter Tuning
@@ -62,6 +58,22 @@ This script performs the following steps:
 
 california_knn_pipeline.pkl
 Running the Streamlit Application
+
+# Screenshots
+# 1. Home Page
+This shows the home system successfully.
+
+![Home Page](home.png)
+
+# 2. Prediction Results
+This shows the prediction results.
+
+![Prediction Results](prediction.png)
+
+# 3. Submitted Inputs
+This shows the system's submitted inputs.
+
+![Submitted Inputs](submitted_inputs.png)
 
 # Running the Streamlit Application
 The trained model is deployed using Streamlit to create an interactive dashboard.
